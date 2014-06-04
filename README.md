@@ -17,7 +17,7 @@ version is 4.3.10.
 
   2. Clone the repository:
 
-        git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
+        git clone --recursive https://github.com/paradox460/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
 
   3. Create a new Zsh configuration by copying the Zsh configuration files
      provided:
@@ -88,6 +88,10 @@ how to use Git, follow this [tutorial][5] and bookmark this [reference][6].
 
 Resources
 ---------
+Debian or Ubuntu users follow these for powerline font installation.
+[Powerline font installation details steps][10]
+
+original installation site: [Official Powerline installation Docs][9] 
 
 The [Zsh Reference Card][7] and the [zsh-lovers][8] man page are indispensable.
 
@@ -124,4 +128,5 @@ SOFTWARE.
 [6]: http://gitref.org
 [7]: http://www.bash2zsh.com/zsh_refcard/refcard.pdf
 [8]: http://grml.org/zsh/zsh-lovers.html
-
+[9]: powerline.readthedocs.org/en/latest/installation/linux.html
+[10]:http://askubuntu.com/questions/283908/how-can-i-install-and-use-powerline-plugin
