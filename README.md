@@ -1,5 +1,5 @@
 > # NOTICE
-> I am no longer maintaining this project. I have switched shells to Fish, and have a dotfile that offers similar functionality in my .dotfiles repo. Sorry for any inconvenience this may cause, you're welcome to fork this and merge in sorin's changes.
+> I am no longer maintaining this project. I have switched shells to Fish, and have a dotfile that offers similar functionality in my [.dotfiles](https://github.com/paradox460/.dotfiles/blob/master/.config/fish/config.fish) repo. Sorry for any inconvenience this may cause, you're welcome to fork this and merge in sorin's changes.
 
 Prezto — Instantly Awesome Zsh
 ==============================
